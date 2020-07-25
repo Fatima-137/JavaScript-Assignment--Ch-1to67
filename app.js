@@ -887,7 +887,7 @@ a = 2 , b =1;
 
 // ............End Chapter # 17-20............ //
 
- // ............Chapter # 21-25............ //
+// ............Chapter # 21-25............ //
 
 // ............Task # 1............ //
 // var firstName = prompt("Enter the first name");
@@ -1362,5 +1362,120 @@ a = 2 , b =1;
 // ............End Chapter # 35-38............ //
 
 
-function mouseOver(){
-}
+
+// ............Start Chapters # 38-42............. //
+
+// ............Task # 1.............. //
+// function power(a,b){
+//     result = Math.pow(a,b);
+//     return result;
+// }
+// document.write(power(10,20)+ "<br/>");
+
+// ............Task # 2.............. //
+// function findLeapYear(year){
+//     if(year%4 == 0 || year%400 == 0 || year%100 != 0){
+//         document.write("Its a leap year " +year);
+//     }
+//     else{
+//         document.write("Its not a leap year");
+//     }
+// }
+// var leapYearInput = prompt("Enter the any year");
+// findLeapYear(leapYearInput);
+
+// .............Task # 3............. //
+// function areaOfTriangle(a,b,c){
+//     var S; 
+//     S = (a+b+c)/2;
+//     var area = Math.sqrt(S*(S-a)*(S-b)*(S-c));
+//     return area;
+// }
+// var sideOne = prompt("Enter the first side of a triangle");
+// var sideTwo = prompt("Enter the second side of a triangle");
+// var sideThree = prompt("Enter the third side of a triangle");
+// document.write(areaOfTriangle(sideOne,sideTwo,sideThree));
+
+// .............Task # 4............. //
+
+
+// .............Task # 5............. //
+
+
+// .............Task # 6............. //
+
+
+// .............Task # 7............. //
+
+
+// .............Task # 8............. //
+
+
+// .............Task # 9............. //
+
+
+// .............Task # 10............. //
+
+
+// .............End Chapters # 38-42............ //
+
+
+
+// ............Start Chapters # 43-48........... //
+
+// ............Task # 1.............. //\
+// Completed 
+
+// ............Task # 2.............. //
+// function showAlert(){
+//     alert("Thanks for purchasing a phone from us");
+// }
+
+// .............Task # 3............. //
+
+
+// .............Task # 4............. //
+
+
+// .............Task # 5............. //
+
+
+// .............End Chapters # 43-48.............. //
+
+
+
+// .............Start Chapters # 49-52.............. //
+
+// .............Task # 1............. //
+
+
+// .............Task # 2............. //
+
+
+// .............Task # 3............. //
+
+// .............End Chapters # 49-52.............. //
+
+
+
+// .............Start Chapters # 52-57................ //
+
+
+
+// .............End Chapters # 52-57............... //
+
+
+
+// ............Start Chapters # 58-67.......... //
+// var getElement = document.getElementById('main-content');
+// console.log(getElement);
+// var getRenderElements = document.getElementsByClassName("render");
+// console.log(getRenderElements);
+// getRenderElements.innerHTML;
+
+
+
+
+
+
+// ............End Chapters # 58-67............ //
